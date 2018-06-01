@@ -1,0 +1,42 @@
+########## ---------------- #########
+#         For Tutorial stuff
+########## ---------------- #########
+# dependencies
+tutorial/tic-tac-toe/node_modules
+
+# testing
+tutorial/tic-tac-toe/coverage
+
+# production
+tutorial/tic-tac-toe/build
+
+# misc
+tutorial/tic-tac-toe/.DS_Store
+tutorial/tic-tac-toe/.env.local
+tutorial/tic-tac-toe/.env.development.local
+tutorial/tic-tac-toe/.env.test.local
+tutorial/tic-tac-toe/.env.production.local
+
+tutorial/tic-tac-toe/npm-debug.log*
+tutorial/tic-tac-toe/yarn-debug.log*
+tutorial/tic-tac-toe/yarn-error.log*
+
+########## ---------------- #########
+#         For Calculator stuff
+########## ---------------- #########
+# dependencies
+calulator-example/calculator/node_modules
+
+# testing
+calulator-example/calculator/coverage
+
+# production
+calulator-example/calculator/build
+
+# misc
+calulator-example/calculator/.DS_Store
+calulator-example/calculator/npm-debug.log
+
+
+
+.DS_Store

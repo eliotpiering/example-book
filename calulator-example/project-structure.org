@@ -1,0 +1,2 @@
+* I think this could be a cool example or more avanced project structure.  
+* You can just have ppl copy the code for calculate don't need to explain
